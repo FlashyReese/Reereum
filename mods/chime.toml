@@ -1,0 +1,13 @@
+name = "Chime"
+filename = "chime-1.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ubxU84eR/versions/1.1.2/chime-1.1.2.jar"
+hash-format = "sha512"
+hash = "f0dacfcf3ba15bd3d64a95c0da7b12a5314c947cdfbba0cd65dae8ce97f0525650e5458620619e5bbd59f6ba83fc56106a110140b6e589b3413d12f360440ec2"
+
+[update]
+[update.modrinth]
+mod-id = "ubxU84eR"
+version = "2XBngbdS"

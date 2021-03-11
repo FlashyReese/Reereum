@@ -1,0 +1,14 @@
+name = "Fabrishot"
+filename = "fabrishot-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3218/387/fabrishot-1.3.0.jar"
+hash-format = "murmur2"
+hash = "2806083200"
+
+[update]
+[update.curseforge]
+file-id = 3218387
+project-id = 404870
+release-channel = "beta"
