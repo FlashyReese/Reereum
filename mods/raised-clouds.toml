@@ -1,0 +1,14 @@
+name = "Raised Clouds"
+filename = "raisedclouds-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3041/857/raisedclouds-1.0.0.jar"
+hash-format = "murmur2"
+hash = "97571072"
+
+[update]
+[update.curseforge]
+file-id = 3041857
+project-id = 404491
+release-channel = "beta"

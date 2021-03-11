@@ -21,6 +21,11 @@ hash = "198b707765f67dd2baa93ad0c52f5a55411b8301c34f00764dd3f0a3f4eb6098"
 metafile = true
 
 [[files]]
+file = "mods/colormatic.toml"
+hash = "5a27519061e547c58ff76ee82448bed9caa4c032faae53687e13dd983c395aa2"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "ffd20cc008e714c63cef6418c9f951a66871a48956fb313920fc74d132e8fc1f"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/phosphor.toml"
 hash = "a0d25fe86a7274ef247c69309772f3ae05cce6f58903162cfda99c0dd4bc8265"
+metafile = true
+
+[[files]]
+file = "mods/raised-clouds.toml"
+hash = "9ee0d470f1263c54344a9376ca16dc8161bcfe4dd5662fadf565d5dc39fa7d6b"
 metafile = true
 
 [[files]]
