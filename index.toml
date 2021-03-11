@@ -134,7 +134,3 @@ metafile = true
 file = "mods/voxelmap.toml"
 hash = "cd94b9d3a16173db5b882b6c347bd64b4ee55e8354b5f9a1ba77eef0c1f2463d"
 metafile = true
-
-[[files]]
-file = "packwiz.exe"
-hash = "5a3afc051d483a7453e08f0c3760e640608e0b4af5a0c6d8f47394da4b21d023"
