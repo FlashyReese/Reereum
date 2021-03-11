@@ -26,6 +26,11 @@ hash = "5a27519061e547c58ff76ee82448bed9caa4c032faae53687e13dd983c395aa2"
 metafile = true
 
 [[files]]
+file = "mods/dark-loading-screen.toml"
+hash = "3e25d5b32e57c54a98ec0911bba7aa75e6efe586924210718a0823fd7433f8c1"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "ffd20cc008e714c63cef6418c9f951a66871a48956fb313920fc74d132e8fc1f"
 metafile = true
@@ -118,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "be16719db2ee9f649d8767e310d66b34e03b2458831c25b9675cbe3db9d79fc5"
+metafile = true
+
+[[files]]
+file = "mods/servertick.toml"
+hash = "47e7007164f94b2ca25ac1b801087efc32cfb4bb54c247bc4dbff9fe47007ffe"
 metafile = true
 
 [[files]]
