@@ -1,7 +1,0 @@
-.git/**
-.github/**
-.gitattributes
-.gitignore
-README.md
-LICENSE
-._*
