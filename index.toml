@@ -61,6 +61,11 @@ hash = "bda628e2537720b1d5e11fd5e700c0be0ad770e6ac2505c3b0f4bce9eba064d8"
 metafile = true
 
 [[files]]
+file = "mods/hwyla.toml"
+hash = "e37316132d574a8472b50140adf0816b2f2b7cacf7f391ea6fe4b8be7cbe4b73"
+metafile = true
+
+[[files]]
 file = "mods/hydrogen.toml"
 hash = "153cda3c6d61ae9b32117fe5315ee40a0bd561b7292d9a5927773a368b52c254"
 metafile = true
