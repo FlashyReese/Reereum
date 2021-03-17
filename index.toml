@@ -36,11 +36,6 @@ hash = "ffd20cc008e714c63cef6418c9f951a66871a48956fb313920fc74d132e8fc1f"
 metafile = true
 
 [[files]]
-file = "mods/ebe.toml"
-hash = "ffe2f4694ec2e91908d679885314f05f228b77d7f6fa283d31786fc42043ffaa"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.toml"
 hash = "7ceb30c98d2160fb0cbeed0da907e343513b190e42e794680344b4b52275dc85"
 metafile = true
