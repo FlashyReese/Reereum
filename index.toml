@@ -76,6 +76,11 @@ hash = "f30f80e947dc98a48704a379ab63cf52aa8fe185c985bf6207a879920fa6837a"
 metafile = true
 
 [[files]]
+file = "mods/lazydfu.toml"
+hash = "b47b2d6351087ad346299faff6daca6047870901fa3ce4c9a79bda719db0a74b"
+metafile = true
+
+[[files]]
 file = "mods/litematica.toml"
 hash = "dfb05ccf6d0a0dcc6d2c15a462ab01275ced75dbff3bd853008ad10ddb307d4b"
 metafile = true
