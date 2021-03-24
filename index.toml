@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "7ceb30c98d2160fb0cbeed0da907e343513b190e42e794680344b4b52275dc85"
+hash = "9891f576ae2fd7796c99deec82c73e2b1a5a19b2d20f34b49d5c6db0a2e45e77"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "8e383d7cbe2abffa9a11a30fa7b6480811a4f7eeb1653751f54ae1bb85d19c4b"
+hash = "ae450426f23a94475320836f0ddbc6ae71782cd7b0a196a12ba165ef7f9168be"
 metafile = true
 
 [[files]]
