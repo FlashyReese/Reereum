@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "85ef957c31b5fc432e4c9f74ca25a82324ae1db9b93438a7a27ed9d06e315d7d"
+hash = "4cb308e652408e2c760a853638346a9e4d8d6febfd951158369ef30ac6669a2b"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "65f39ab7f5b51614436d1986a9f7defc76c467d957043aa23ce59c98e4de0006"
+hash = "35cdd7a1c9b2dd09d458773be1fef94eaca2138b6a96f218921b2deaa0380c4e"
 metafile = true
 
 [[files]]
