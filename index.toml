@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.toml"
-hash = "ae7591b1681acfa28fa9c2453ef6a02342ec3f1c84e905fd8f2540e2eecbf817"
+hash = "6ebf827f0ff4acc6482fb020b9bff5bf42bc3fb6aebc313fb2b5f7b0f0dbeec9"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-furnace-for-fabric.toml"
-hash = "75782c4665bae2249e5e5cb5434b8615f0f64c7412bd254926c9cddc761d3b05"
+hash = "7f4c8dc9409176cadc1c9e779bd6c8f5694e1f14dbc69ded0b7149b081b4644f"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "cbc1c51c63ad8de8978eec90d85522d429391ce43d017a3bbe6d6da3d20b2bb1"
+hash = "89f3e405702e97fbea8f83e9a11ef245bff1b90fa612f70362e85792fa4606ed"
 metafile = true
 
 [[files]]
