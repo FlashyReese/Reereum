@@ -51,8 +51,8 @@ hash = "7f4c8dc9409176cadc1c9e779bd6c8f5694e1f14dbc69ded0b7149b081b4644f"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore.toml"
-hash = "bda628e2537720b1d5e11fd5e700c0be0ad770e6ac2505c3b0f4bce9eba064d8"
+file = "mods/ferritecore-fabric.toml"
+hash = "ed613e13e8c4c55679db7625f0a9c23842ef28195c6c716836790e7b4efe28a7"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "ae450426f23a94475320836f0ddbc6ae71782cd7b0a196a12ba165ef7f9168be"
+hash = "e58de227a9e6f450e79893688e1b83463e015166fc91e695b617eed227df3770"
 metafile = true
 
 [[files]]
