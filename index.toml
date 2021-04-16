@@ -6,6 +6,11 @@ hash = "4b3d4659017ba5768cfe7dccc13aad839601053f0f5a891bfb3cd85f8fc4d48c"
 metafile = true
 
 [[files]]
+file = "mods/bobby.toml"
+hash = "0097465586642e0e9903f25df05b3b12f7763e53624b7da5365c9e321e877760"
+metafile = true
+
+[[files]]
 file = "mods/carpet.toml"
 hash = "e2f3db8a011c3efb5168ee57c109dbf031026ce472c737912a4c068f9b250795"
 metafile = true
