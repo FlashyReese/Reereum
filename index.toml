@@ -12,12 +12,12 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.toml"
-hash = "e2f3db8a011c3efb5168ee57c109dbf031026ce472c737912a4c068f9b250795"
+hash = "bd0085e944951831c7c2c5c2d12b9f53cee42d5d989fea9817259993fb7b089f"
 metafile = true
 
 [[files]]
 file = "mods/chime.toml"
-hash = "d663e9817530e17300bb60d2bfbc81cb86fef78aaf71e0f4792704a1114859bd"
+hash = "fa128fbd62e2d2955c4f8cce6a51129a4c6aa635672a80bb2672d7726ab36a92"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "e58de227a9e6f450e79893688e1b83463e015166fc91e695b617eed227df3770"
+hash = "f53de056dd0d1029be5b6fad356605ecd6367ef48807f664e571ceb43d70d919"
 metafile = true
 
 [[files]]
