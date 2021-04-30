@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.toml"
-hash = "bd0085e944951831c7c2c5c2d12b9f53cee42d5d989fea9817259993fb7b089f"
+hash = "d3870d161ce7fab9bc08138801f2875f474ede35bccf71dee1e8d66667dee2ed"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/phosphor.toml"
-hash = "a0d25fe86a7274ef247c69309772f3ae05cce6f58903162cfda99c0dd4bc8265"
+hash = "fc6d55dfad363110ca81ffda6510dac8aa3cecdad04d0ded6ed9e706764b2825"
 metafile = true
 
 [[files]]
