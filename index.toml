@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/architectury-fabric.toml"
-hash = "d2aa937360b49d5fdb6d5b5c9d0c0bd54965b0fbfdcc24fe9f8b28d8960c3f7e"
-metafile = true
-
-[[files]]
 file = "mods/blur-fabric.toml"
 hash = "4b3d4659017ba5768cfe7dccc13aad839601053f0f5a891bfb3cd85f8fc4d48c"
 metafile = true
@@ -88,11 +83,6 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.toml"
 hash = "b47b2d6351087ad346299faff6daca6047870901fa3ce4c9a79bda719db0a74b"
-metafile = true
-
-[[files]]
-file = "mods/light-overlay.toml"
-hash = "6b94fc7e70baac84d6be150d8a429599ab6337f7fd8dcc079260323a1bdb9ee0"
 metafile = true
 
 [[files]]
