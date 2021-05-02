@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/architectury-fabric.toml"
+hash = "d2aa937360b49d5fdb6d5b5c9d0c0bd54965b0fbfdcc24fe9f8b28d8960c3f7e"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.toml"
 hash = "4b3d4659017ba5768cfe7dccc13aad839601053f0f5a891bfb3cd85f8fc4d48c"
 metafile = true
