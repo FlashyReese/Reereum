@@ -1,14 +1,14 @@
 name = "Sodium Extra"
-filename = "sodium-extra-0.2.5.jar"
+filename = "sodium-extra-0.2.6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3287/182/sodium-extra-0.2.5.jar"
+url = "https://edge.forgecdn.net/files/3295/558/sodium-extra-0.2.6.jar"
 hash-format = "murmur2"
-hash = "4283682161"
+hash = "1894988787"
 
 [update]
 [update.curseforge]
-file-id = 3287182
+file-id = 3295558
 project-id = 447673
 release-channel = "beta"
