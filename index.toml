@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.toml"
-hash = "9ad5b101baef9ba292f45f7807d5d40a9618fbc758ae17c2f4bbb44cc5db8f38"
+hash = "d1565b8e9f460df191ea3cb98952cc336a3d97a7aa45894d42d27d12995ce88e"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "f53de056dd0d1029be5b6fad356605ecd6367ef48807f664e571ceb43d70d919"
+hash = "e086f180682beb5fdfc2710cc0ce57e6228b867ba5469769183f4a368daa3f01"
 metafile = true
 
 [[files]]
