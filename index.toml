@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "e086f180682beb5fdfc2710cc0ce57e6228b867ba5469769183f4a368daa3f01"
+hash = "3388f1488460e5d2d16e9c079db90258179ec4ec221fb8d75f5a6d769908990d"
 metafile = true
 
 [[files]]
