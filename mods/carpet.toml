@@ -1,14 +1,14 @@
 name = "Carpet"
-filename = "fabric-carpet-1.16.5-1.4.39+v210531.jar"
+filename = "fabric-carpet-1.16.5-1.4.40+v210608.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3331/585/fabric-carpet-1.16.5-1.4.39+v210531.jar"
+url = "https://edge.forgecdn.net/files/3343/629/fabric-carpet-1.16.5-1.4.40+v210608.jar"
 hash-format = "murmur2"
-hash = "318878851"
+hash = "2361173190"
 
 [update]
 [update.curseforge]
-file-id = 3331585
+file-id = 3343629
 project-id = 349239
 release-channel = "beta"

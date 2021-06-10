@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.toml"
-hash = "d4f67deceddd87e9b078e5dd8bc1ad1c4adb2281497ca2a75776325d976d99bf"
+hash = "2dbafa47401097884a2c5b6a4a6a345c9d85a5af5b97c1823bf29582ed39f593"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "640a37ac0fa258eddcc43ac2433a71b99005c0e393a035cd43f3fe6a2aca2069"
+hash = "300087df111ef80c096cc1b3c96c5d25e9df0fe7548a3fea8f0dca299ba0d5fa"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "422c1de9efb874e42c49d6cfbf87bcb01e603f9adba2f51a9dfaa3611b7313b8"
+hash = "08f60b30a7267de38af1c8780bb0932e02fa0bafbb49290d8c224fb2102415ed"
 metafile = true
 
 [[files]]
