@@ -1,33 +1,23 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/blur-fabric.toml"
-hash = "4b3d4659017ba5768cfe7dccc13aad839601053f0f5a891bfb3cd85f8fc4d48c"
+file = "mods/architectury-fabric.toml"
+hash = "a230c0e9b3b5f4316b80bbf2dd3575b16dffa6470785ccc5945ddba5f3dd911d"
 metafile = true
 
 [[files]]
-file = "mods/bobby.toml"
-hash = "0097465586642e0e9903f25df05b3b12f7763e53624b7da5365c9e321e877760"
+file = "mods/blur-fabric.toml"
+hash = "d71fe401389e35c8d8a909f37665645add4e2a8a52cb3aaf5818b239756694e6"
 metafile = true
 
 [[files]]
 file = "mods/carpet.toml"
-hash = "2dbafa47401097884a2c5b6a4a6a345c9d85a5af5b97c1823bf29582ed39f593"
-metafile = true
-
-[[files]]
-file = "mods/chime.toml"
-hash = "fa128fbd62e2d2955c4f8cce6a51129a4c6aa635672a80bb2672d7726ab36a92"
+hash = "37cc8993b9c01538e03296d5f0deea5e710ebe745ce0eb8c929bbee9c445d8c9"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "4ac362da27727d78e5105fe2a2da78db6926aacddf1377bd662eb154a31e63f8"
-metafile = true
-
-[[files]]
-file = "mods/colormatic.toml"
-hash = "5a27519061e547c58ff76ee82448bed9caa4c032faae53687e13dd983c395aa2"
+hash = "94b98ae68382da3bf4f3bd3115319c75bc8e078ce856cee4040d2710b97ddead"
 metafile = true
 
 [[files]]
@@ -37,47 +27,22 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.toml"
-hash = "d0b9148b7ab3ae0f3e62a9b851dde3911c28d6010b7c69766fe9c13ecdb9e263"
+hash = "0fdc4c01e9018d789fc9566a80765fc932d1d12b419fc335e8af97cd31c27b69"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "300087df111ef80c096cc1b3c96c5d25e9df0fe7548a3fea8f0dca299ba0d5fa"
-metafile = true
-
-[[files]]
-file = "mods/fabrishot.toml"
-hash = "6a54f6f39e406eadc55630808a678b13b43ca3d057e8f13e1ddcbae6f84ac9bc"
-metafile = true
-
-[[files]]
-file = "mods/fast-furnace-for-fabric.toml"
-hash = "7f4c8dc9409176cadc1c9e779bd6c8f5694e1f14dbc69ded0b7149b081b4644f"
-metafile = true
-
-[[files]]
-file = "mods/ferritecore-fabric.toml"
-hash = "ed613e13e8c4c55679db7625f0a9c23842ef28195c6c716836790e7b4efe28a7"
-metafile = true
-
-[[files]]
-file = "mods/hwyla.toml"
-hash = "e37316132d574a8472b50140adf0816b2f2b7cacf7f391ea6fe4b8be7cbe4b73"
-metafile = true
-
-[[files]]
-file = "mods/hydrogen.toml"
-hash = "153cda3c6d61ae9b32117fe5315ee40a0bd561b7292d9a5927773a368b52c254"
+hash = "0849fac6eefbbfaad900a0040babeb8f275556f22bb5958e77018bd77c477e0d"
 metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.toml"
-hash = "ba03df857f3e1ec072ba3a50e72add0272c5b122ecaab3eb906a783f88b5fffb"
+hash = "1b6af8e3e905915077e3d5d03e733e23520de8af39ddc8ad27b7e3e68ada29a1"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.toml"
-hash = "f30f80e947dc98a48704a379ab63cf52aa8fe185c985bf6207a879920fa6837a"
+hash = "f687dc2377230a9e1b44df70878d2b10bc5fde9ebf2df90a2c718f324ab15348"
 metafile = true
 
 [[files]]
@@ -87,80 +52,45 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "dfb05ccf6d0a0dcc6d2c15a462ab01275ced75dbff3bd853008ad10ddb307d4b"
+hash = "f1f07591b8dd63937c2b12d9358b49c4d7c545c248f1358e7887dc5c8e151109"
 metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "08f60b30a7267de38af1c8780bb0932e02fa0bafbb49290d8c224fb2102415ed"
+hash = "0cc9af3215278539eff1015dd482da0d394fcd8c6cedb362ae584c2daa10c628"
 metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "35cdd7a1c9b2dd09d458773be1fef94eaca2138b6a96f218921b2deaa0380c4e"
+hash = "b67aee6064b4ef58a3d45799cf72dfac615d614681efbb00cc96372d5637202d"
 metafile = true
 
 [[files]]
 file = "mods/minihud.toml"
-hash = "f7a18e0438a168d0bdd2035f0828e2e5d86626d6144a8788f07f13dabd20b487"
+hash = "07cfb7c0f81b22bb9aa965a38eedb7083741aaa603bdceb201e913b6ff68dbb3"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "89f3e405702e97fbea8f83e9a11ef245bff1b90fa612f70362e85792fa4606ed"
-metafile = true
-
-[[files]]
-file = "mods/ok-zoomer.toml"
-hash = "0a581c0aef56aa21aeb6a735b76b119c28104d60905129bf785c4fcf80efb031"
-metafile = true
-
-[[files]]
-file = "mods/phosphor.toml"
-hash = "fc6d55dfad363110ca81ffda6510dac8aa3cecdad04d0ded6ed9e706764b2825"
-metafile = true
-
-[[files]]
-file = "mods/raised-clouds.toml"
-hash = "9ee0d470f1263c54344a9376ca16dc8161bcfe4dd5662fadf565d5dc39fa7d6b"
-metafile = true
-
-[[files]]
-file = "mods/randompatches-fabric.toml"
-hash = "81179fc5374e1649cb8bb169226227bf5564be26b4f40702537d4512467c1ca8"
+hash = "e169363f79b6a9269704690470b12210bce59fda4b9dd07f46cbddbccacb4049"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "3388f1488460e5d2d16e9c079db90258179ec4ec221fb8d75f5a6d769908990d"
+hash = "8ec39ec4b1543f08e09ae13de84cf067d3bc611511d73686f843f78cb9c52c47"
 metafile = true
 
 [[files]]
 file = "mods/servertick.toml"
-hash = "47e7007164f94b2ca25ac1b801087efc32cfb4bb54c247bc4dbff9fe47007ffe"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.toml"
-hash = "46191266f2d52954480a56fba89e0548caf08ac8676b0007edba689b31d3e451"
-metafile = true
-
-[[files]]
-file = "mods/sodium.toml"
-hash = "e8bd65dbaa1cec8da1df4f903b8dc1a9db5aca82e56856c06fc284ff1b9a9a73"
-metafile = true
-
-[[files]]
-file = "mods/transparent-fabric.toml"
-hash = "4f24f965e79e4cde6ef18a2642097acaa5759696450034b98acbeba2a3a0507a"
+hash = "982df907a3326a71e67a46b5dc2c94a7f363ac979c41842a619ae8d7de0a180f"
 metafile = true
 
 [[files]]
 file = "mods/tweakeroo.toml"
-hash = "1ae72cbea60df4d5dab37971ea397ef3aa7cdf4d9fd0bd2a131af060f40728a7"
+hash = "2995f53b90e0aadee5c9981719d30a723747c007684eed18bc69da6e95e62391"
 metafile = true
 
 [[files]]
 file = "mods/voxelmap.toml"
-hash = "cd94b9d3a16173db5b882b6c347bd64b4ee55e8354b5f9a1ba77eef0c1f2463d"
+hash = "0a72335458f2e082d08eb39d5d417e5f5584adbaa9e0bd3955135d38d88fa8ed"
 metafile = true

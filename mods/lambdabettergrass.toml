@@ -1,14 +1,14 @@
 name = "LambdaBetterGrass"
-filename = "lambdabettergrass-fabric-1.0.3+1.16.jar"
+filename = "lambdabettergrass-1.2.0+1.17.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3177/379/lambdabettergrass-fabric-1.0.3+1.16.jar"
+url = "https://edge.forgecdn.net/files/3343/563/lambdabettergrass-1.2.0+1.17.jar"
 hash-format = "murmur2"
-hash = "4234188282"
+hash = "479738688"
 
 [update]
 [update.curseforge]
-file-id = 3177379
+file-id = 3343563
 project-id = 400322
 release-channel = "beta"

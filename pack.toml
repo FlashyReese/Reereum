@@ -1,12 +1,12 @@
 name = "Reereum"
 author = "FlashyReese"
-version = "0.7.0"
+version = "0.8.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ea9723a634f5d77ea1c35a04253a11597fac0f3fb350dc41ba20ef6dca184338"
+hash = "c5a97f3ffbe8f7b995d5225c51ec914a77365d1024e16d0d13f963b4dd37c8ad"
 
 [versions]
-fabric = "0.11.2"
-minecraft = "1.16.5"
+fabric = "0.11.3"
+minecraft = "1.17"
