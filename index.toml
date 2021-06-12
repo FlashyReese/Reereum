@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "a230c0e9b3b5f4316b80bbf2dd3575b16dffa6470785ccc5945ddba5f3dd911d"
+hash = "61c87ffced08086b90cfa32fb8258966a4969827a108ff343aba78739b33249a"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-loading-screen.toml"
-hash = "3e25d5b32e57c54a98ec0911bba7aa75e6efe586924210718a0823fd7433f8c1"
+hash = "223159bf7b784d9e7909ab8c547c5521ed4a0bc28c42fb07e5839118fee99f2b"
 metafile = true
 
 [[files]]
@@ -32,7 +32,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "0849fac6eefbbfaad900a0040babeb8f275556f22bb5958e77018bd77c477e0d"
+hash = "c571c7d97ec362cea8a9d39dbf9c6fe1dc087003b9a43725a794084e24d67370"
+metafile = true
+
+[[files]]
+file = "mods/fast-furnace-for-fabric.toml"
+hash = "ff713ac41dfbc449d35b48cc21848b2f33dcd4e70e6c553801c5b9691a13eb86"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "4a638037e49373800b853dc2d875d60ac72ecc8719efaed3e0c68cebcc7f1f5c"
 metafile = true
 
 [[files]]
@@ -72,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "e169363f79b6a9269704690470b12210bce59fda4b9dd07f46cbddbccacb4049"
+hash = "7eec8fb33cc59b0518a4acfd6a19e01bd50fdedf3ebe20b1c7e45d19274160f1"
 metafile = true
 
 [[files]]
