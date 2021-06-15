@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "61c87ffced08086b90cfa32fb8258966a4969827a108ff343aba78739b33249a"
+hash = "32038f20fa0d08ab1aca7fc508b2686748ecea7328af2a780b3663220e046ee2"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "c571c7d97ec362cea8a9d39dbf9c6fe1dc087003b9a43725a794084e24d67370"
+hash = "4dae662efc99acc9dc4b05b456a347c3200d5880883dfc06487155528e28ff6b"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.toml"
-hash = "f687dc2377230a9e1b44df70878d2b10bc5fde9ebf2df90a2c718f324ab15348"
+hash = "3e6db126eb1735434a047a2923579c6608b2a7367392e3dd9ca771b31dcc2d63"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "f1f07591b8dd63937c2b12d9358b49c4d7c545c248f1358e7887dc5c8e151109"
+hash = "2b792179922dc52ba5062c55391903a8c5e9f111e3c99cdb17d5a60e3f212767"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "8ec39ec4b1543f08e09ae13de84cf067d3bc611511d73686f843f78cb9c52c47"
+hash = "2751c4a383444e0c74e866b158878c657235b2eea6ed9d920e94b3a09121e552"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.toml"
-hash = "2995f53b90e0aadee5c9981719d30a723747c007684eed18bc69da6e95e62391"
+hash = "81def6c4582926c48103218443f0515a211a76b8ce4a3c96d1799c9e0faf9678"
 metafile = true
 
 [[files]]
