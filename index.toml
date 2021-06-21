@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.toml"
-hash = "0097465586642e0e9903f25df05b3b12f7763e53624b7da5365c9e321e877760"
+hash = "f7c115f36095ff38b7f68ae47195c68a803c79067a6e925417e50611e6d08e12"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/colormatic.toml"
-hash = "5a27519061e547c58ff76ee82448bed9caa4c032faae53687e13dd983c395aa2"
+hash = "fdbea3866d3751cd6522fe0fbf18673aca921bc3efd3731d05cbeb8eb8e2a5a3"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "300087df111ef80c096cc1b3c96c5d25e9df0fe7548a3fea8f0dca299ba0d5fa"
+hash = "c2ed9db1e857f5e6e2c080651bb298cdd421a3decbecca77f89645fcc13aba20"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "dfb05ccf6d0a0dcc6d2c15a462ab01275ced75dbff3bd853008ad10ddb307d4b"
+hash = "ee22da0dce2b4e6f840d5677e72e58712585429483aba16a5a110779a41f677b"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "46191266f2d52954480a56fba89e0548caf08ac8676b0007edba689b31d3e451"
+hash = "8408d8fc2d34a51e3a394d3d041a326fd9eb6dd1a54c6872667b62fa8655ce42"
 metafile = true
 
 [[files]]

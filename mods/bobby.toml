@@ -1,14 +1,14 @@
 name = "Bobby"
-filename = "bobby-1.1.4.jar"
+filename = "bobby-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3251/276/bobby-1.1.4.jar"
+url = "https://edge.forgecdn.net/files/3349/93/bobby-1.2.0.jar"
 hash-format = "murmur2"
-hash = "1484381371"
+hash = "3166441080"
 
 [update]
 [update.curseforge]
-file-id = 3251276
+file-id = 3349093
 project-id = 409301
 release-channel = "beta"
