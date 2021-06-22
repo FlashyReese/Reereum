@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-fabric.toml"
-hash = "8577ddec8e0fc030384afa3812a030f210d4e9e572d58bf0cbf69beb2961361d"
+hash = "04636c3dbec9be39613d14b014ebd0c62f7c6721befc1f9f60456149f268d8be"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "eab6909e8140689c09f40d47e00e3f9c97dcce1924728d392a0cbb782ba38c30"
+hash = "8e21e91896187629007baca7d6494852c63ad287552c20c83b02477926c7ecb9"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "fc7eb25a81c148c39d5cc081cf03e5402301c75c6cf04f70a1b3a9c6cd819b57"
+hash = "0d332420c04b3d0331110e782ac70cf72af4feeabe659f5e1f2e498d823c6360"
 metafile = true
 
 [[files]]
