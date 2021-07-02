@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "75db4a4f9f92d71a6144c9153b3926364d942ad5f9211d08442ea8e0147c9273"
+hash = "99104ba73b364dcaff5fc77bf1bdb7e64bc1ffee7082e09cb0037f88500fe8aa"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "0d332420c04b3d0331110e782ac70cf72af4feeabe659f5e1f2e498d823c6360"
+hash = "61c9cae251b4622d7d29982c17976ededd4662f91b55c98f129b3b42d9eeb175"
 metafile = true
 
 [[files]]
