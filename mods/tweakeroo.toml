@@ -1,14 +1,14 @@
 name = "Tweakeroo"
-filename = "tweakeroo-fabric-1.17.0-0.10.0-dev.20210614.173711.jar"
+filename = "tweakeroo-fabric-1.17.1-0.10.0-dev.20210710.155746.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3351/747/tweakeroo-fabric-1.17.0-0.10.0-dev.20210614.173711.jar"
+url = "https://edge.forgecdn.net/files/3383/609/tweakeroo-fabric-1.17.1-0.10.0-dev.20210710.155746.jar"
 hash-format = "murmur2"
-hash = "3135753917"
+hash = "378160026"
 
 [update]
 [update.curseforge]
-file-id = 3351747
+file-id = 3383609
 project-id = 297344
 release-channel = "beta"
