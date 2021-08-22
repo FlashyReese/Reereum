@@ -116,6 +116,11 @@ hash = "af0d6f7ccb0f63926ab971084212bddfe5b3f37259d3e2cf7a485232ea019f37"
 metafile = true
 
 [[files]]
+file = "mods/reload-audio-driver-fabric.toml"
+hash = "ea6bb0e9d2941780758eb4b06145438cf71410777ae9a953d8fd7afeec771487"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "831a4edea7d15b049262b96bdd59ab7f43dedf452318007f267a5cf7eb9c3c94"
 metafile = true
