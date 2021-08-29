@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "4b7565fdb5f54b8f1bf9e5c121e9d798b93f4cf2ab491d6f6bbdff497ecb44e6"
+hash = "096d8ef6d0b345bb8e421a81ac09cbef0c813068d51f5eab1aa12750d78cde26"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "d43de1261a5d318ab45e31a34933f736ad675f70d147c3304b864ebb8ec0bed8"
+hash = "baa5f09833d49dc154e01e76be9515c4e1ae7757a2d78415eeb220b34a97db93"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.toml"
-hash = "10c88c45c2759a2b33a072de8336a39f7ef16b23a1c5d1ae30ae484ff6490b12"
+hash = "ef41380ef2612b9d2b0c2aa81e10d13a8116a956f8e67de96c3115619562520c"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.toml"
-hash = "d1043d89fc8dcc88fd58ff00f2aeeeda1db35479f20198c175b121c9fe9efb20"
+hash = "83cd473f679ee67f828d7660f8c546d04744c7a79a43bfd7c039e73eb3d5e45e"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "ae1812f194a40df3d7291ba4206af52da9421e56e18327d5c56f41005243d4d7"
+hash = "290f25ecb199d3010dd5fa5ce6e148577766e0a362129cfa5de6250bfe2702d1"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "5be0024e7a145dce7e9452c6a5a8f829b3a933fee665c9d445904b16cf862920"
+hash = "4e4a6cdd6a66a7251e1c26dabbef94b052a971e1891e1aafb423e1fe7d266adb"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "831a4edea7d15b049262b96bdd59ab7f43dedf452318007f267a5cf7eb9c3c94"
+hash = "523287ccdaca7718dbbc48afb4068484c1bb84d7f101fb0de94254363cd62b99"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "98c21b4feb5984a2650d322530c077d7ef59c0ab59d03392c8a6f284ffcef3d4"
+hash = "65d33478598a3451a2dab51b5e0ffdc0d7cc4682d731788017177419c2859e5f"
 metafile = true
 
 [[files]]
