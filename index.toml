@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "096d8ef6d0b345bb8e421a81ac09cbef0c813068d51f5eab1aa12750d78cde26"
+hash = "709d06702d9c3ffd0643843d9945a75c48880921b5a9e2384a5c2be809fda4cd"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-loading-screen.toml"
-hash = "2eaeac8b81bdc5825153e25485221c86c290df3fa6b59522617bdecaafd1d62b"
+hash = "cd9849d637958a3375036cd4476c63af48c611d0073a817461e8884131171460"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "baa5f09833d49dc154e01e76be9515c4e1ae7757a2d78415eeb220b34a97db93"
+hash = "c5797709859b36f2dcf6d5a97bfe618cf43ee2594f5bfe2ff71bb04ec066c13c"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "4e4a6cdd6a66a7251e1c26dabbef94b052a971e1891e1aafb423e1fe7d266adb"
+hash = "1814d9080049b792341dba1722f7e5ba104df52f51829683e51c0dccfcf591a4"
 metafile = true
 
 [[files]]
