@@ -26,6 +26,11 @@ hash = "94c221982b03971e906ac09835fae62e95acc7341aaf549cec289ae9f28f15ca"
 metafile = true
 
 [[files]]
+file = "mods/colormatic.toml"
+hash = "e9d8579b5f5bbada114982ea16c3f9b8f604d3875f1551752d3146cd726aa2ff"
+metafile = true
+
+[[files]]
 file = "mods/dark-loading-screen.toml"
 hash = "cd9849d637958a3375036cd4476c63af48c611d0073a817461e8884131171460"
 metafile = true
@@ -43,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.toml"
 hash = "c5797709859b36f2dcf6d5a97bfe618cf43ee2594f5bfe2ff71bb04ec066c13c"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.toml"
+hash = "9131713b5dd19789c6d25cf7e10a787e4454f1b9b958b1854746f9d3a72782a8"
 metafile = true
 
 [[files]]
