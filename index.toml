@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "00b8b522c80ea391ab2aadd3eb900a53afc9dd19e2e09159b81f0eafeaf71b18"
+hash = "bb3a66d784d73efbbe91963f577ef3a517500053cdc0df3aac94ea1d3b9f995f"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "948ba4ca25e96364e210eb5ed9f5240b3b41abeb47973537a3cfcc2a2a320b42"
+hash = "e49e2a335f56851e64986b5852839bd9574762405a1ee244e0efa48f3e5473a7"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "1814d9080049b792341dba1722f7e5ba104df52f51829683e51c0dccfcf591a4"
+hash = "0e814f4b1e2796c9fcf55508c3b7eaac178ad6e28e6133d98c38870fdc6a1cca"
 metafile = true
 
 [[files]]
