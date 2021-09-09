@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-fabric.toml"
-hash = "59e71839bd791c287f1aa60cfbe4ba32363891f2c2a7a2261704131c2b93241b"
+hash = "04636c3dbec9be39613d14b014ebd0c62f7c6721befc1f9f60456149f268d8be"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-furnace-for-fabric.toml"
-hash = "0790c579c6b708b855f18230c11d7bcc085f2cef1ab086c1c6a797c8dfe42461"
+hash = "ff713ac41dfbc449d35b48cc21848b2f33dcd4e70e6c553801c5b9691a13eb86"
 metafile = true
 
 [[files]]
@@ -61,13 +61,18 @@ hash = "0e1a6f22d9e5538561be2f2a8bfd4998704124266c2af98d23e9adc67df5f9d9"
 metafile = true
 
 [[files]]
+file = "mods/indium.toml"
+hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
+metafile = true
+
+[[files]]
 file = "mods/iris.toml"
 hash = "bb3a66d784d73efbbe91963f577ef3a517500053cdc0df3aac94ea1d3b9f995f"
 metafile = true
 
 [[files]]
 file = "mods/krypton.toml"
-hash = "98c69ba95af9931fe958653f8b7689475481ebb335456d92826f039be892a4ac"
+hash = "23138a27526a640e5cd3aa7bc4803e99f9a82a4fb550683c1744277a1b14886d"
 metafile = true
 
 [[files]]
@@ -77,12 +82,12 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.toml"
-hash = "6db401c1130a654f1bc8214692e95dd914ee8b39ccde4bccfe6b9144e7463715"
+hash = "d1b7566f8022927583b3a112c30a9867d9d9e7f6736cd06ec30eebbb57fbdc55"
 metafile = true
 
 [[files]]
 file = "mods/lazydfu.toml"
-hash = "b9177fbe474ce59634a6c6a4a154b14264ce1f1f525d339fea66b7f4e0589922"
+hash = "b47b2d6351087ad346299faff6daca6047870901fa3ce4c9a79bda719db0a74b"
 metafile = true
 
 [[files]]
@@ -97,12 +102,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "04cc078287fdfe730f97176e75dff48cad7314dddb5d4ba192980e77822a9180"
+hash = "1ee5f0b27825f1d3cb9ec218d2075522d2941286547d4f43be88dbec6aea56a9"
 metafile = true
 
 [[files]]
 file = "mods/minihud.toml"
-hash = "15b890e2cba3365fd0cc66843761d931b5bddd6d04cb6a14e944d77284c9ecdb"
+hash = "0146af5788bd6d72bd56ad2aa3e0f176643f085113caaa362bbc731dafd106d0"
 metafile = true
 
 [[files]]
@@ -137,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.toml"
-hash = "c440f3a6659d3448deafe857fbdc90da4375e41b87af52cab61904e5c5392dca"
+hash = "ca1f9e4c5da00b4ea95796304e6e4505329502b2047b0a40e381fe1e4fc9c2af"
 metafile = true
 
 [[files]]
