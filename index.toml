@@ -71,6 +71,11 @@ hash = "153cda3c6d61ae9b32117fe5315ee40a0bd561b7292d9a5927773a368b52c254"
 metafile = true
 
 [[files]]
+file = "mods/indium.toml"
+hash = "ab27efec396c923a7e760dd00e606ad99a7f47a2e5e880af1b88bd820c04da2b"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.toml"
 hash = "ba03df857f3e1ec072ba3a50e72add0272c5b122ecaab3eb906a783f88b5fffb"
 metafile = true
