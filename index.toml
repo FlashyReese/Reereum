@@ -131,6 +131,11 @@ hash = "af0d6f7ccb0f63926ab971084212bddfe5b3f37259d3e2cf7a485232ea019f37"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.toml"
+hash = "f1b7fb57203e856aa6a6a773e79f1e83d0aa917eb18acce60616f09c1665a90a"
+metafile = true
+
+[[files]]
 file = "mods/reload-audio-driver-fabric.toml"
 hash = "ea6bb0e9d2941780758eb4b06145438cf71410777ae9a953d8fd7afeec771487"
 metafile = true
