@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "7d83e8f4291e9804e555fe8319f55159f6072472845975f19a94d1fc8ebb35f7"
+hash = "2f084a168e35bc5a46a9b4d60401ffcb4ab228a61bfc8f7a651dc5724a285b76"
 metafile = true
 
 [[files]]
@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.toml"
-hash = "e83d84ab1a411f6d798ec2779e7f6d1e4886de3ce16466d6c640781b0c36ca12"
+hash = "50fc93bcbad5f6c6ae22dd8eeb8aebc7097b8eb139830665653a6091e8ba6690"
 metafile = true
 
 [[files]]
@@ -28,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/colormatic.toml"
 hash = "ed3b4fe8523e09ea329c0c25d11625cc025320feebd8137b1547ef6e9360f826"
+metafile = true
+
+[[files]]
+file = "mods/continuity.toml"
+hash = "692d1cbb5e28320e8f3c1f774d8eab4b150b28bfb7146da952d7f637d333fe02"
 metafile = true
 
 [[files]]
