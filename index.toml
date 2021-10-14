@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "aa41410b13d49bae6e229e0dfaee69b840d14c0c44d780bfcb4e9409ac472a37"
+hash = "ba90ffaf4ac431954673473146027831dd8a38f7ef9967029e18a8ba1434e200"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.toml"
-hash = "41d6e4f22627e47ffd1f57da45e59131400677547b81612d80c05201833a2081"
+hash = "04f5503872be7e7b0bc459a4aa7e1e47f2cab09768d603b51d63e841205778ab"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "1ddd47a4e355fc877a5f99a103c8952129a37ec1cd0bf23c71b30cff65ba7703"
+hash = "08d670695dbbdb36b9bdeab8a7f149de0d48ce548e75f0df7ef8fcae1b49639e"
 metafile = true
 
 [[files]]
