@@ -136,6 +136,11 @@ hash = "2dc8a62a7ddc1daa36433b3b332db66d099b9e4d97555ac7463e2d4ba15e2997"
 metafile = true
 
 [[files]]
+file = "mods/phosphor.toml"
+hash = "bfa5ea4e982f77638903be69f172b21d5db40699e2878adcd77f881567d8480b"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.toml"
 hash = "7df74dc0e9984f0e241b83154a7e4455c6801b4584be978678f1dd9e9e9e94fb"
 metafile = true
