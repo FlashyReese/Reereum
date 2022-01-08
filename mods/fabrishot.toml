@@ -1,14 +1,14 @@
 name = "Fabrishot"
-filename = "fabrishot-1.5.1.jar"
+filename = "fabrishot-1.6.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3381/995/fabrishot-1.5.1.jar"
+url = "https://edge.forgecdn.net/files/3542/922/fabrishot-1.6.0.jar"
 hash-format = "murmur2"
-hash = "165472990"
+hash = "1467117810"
 
 [update]
 [update.curseforge]
-file-id = 3381995
+file-id = 3542922
 project-id = 404870
 release-channel = "beta"

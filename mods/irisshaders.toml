@@ -1,14 +1,14 @@
 name = "Iris Shaders"
-filename = "iris-mc1.17-1.1.4.jar"
+filename = "iris-mc1.18.1-1.1.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3596/180/iris-mc1.17-1.1.4.jar"
+url = "https://edge.forgecdn.net/files/3596/182/iris-mc1.18.1-1.1.4.jar"
 hash-format = "murmur2"
-hash = "601631150"
+hash = "3265639627"
 
 [update]
 [update.curseforge]
-file-id = 3596180
+file-id = 3596182
 project-id = 455508
 release-channel = "beta"

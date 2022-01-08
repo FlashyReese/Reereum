@@ -3,12 +3,12 @@ filename = "reloadAudioDriver-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3342/870/reloadAudioDriver-1.0.1.jar"
+url = "https://edge.forgecdn.net/files/3538/150/reloadAudioDriver-1.0.1.jar"
 hash-format = "murmur2"
-hash = "1635041146"
+hash = "1842040689"
 
 [update]
 [update.curseforge]
-file-id = 3342870
+file-id = 3538150
 project-id = 391502
 release-channel = "beta"
