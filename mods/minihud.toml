@@ -1,14 +1,14 @@
 name = "MiniHUD"
-filename = "minihud-fabric-1.16.4-0.19.0-dev.20201103.184029.jar"
+filename = "minihud-fabric-1.16.5-0.19.0-dev.20210917.191825.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3101/187/minihud-fabric-1.16.4-0.19.0-dev.20201103.184029.jar"
+url = "https://edge.forgecdn.net/files/3542/572/minihud-fabric-1.16.5-0.19.0-dev.20210917.191825.jar"
 hash-format = "murmur2"
-hash = "1105780919"
+hash = "3109906924"
 
 [update]
 [update.curseforge]
-file-id = 3101187
+file-id = 3542572
 project-id = 244260
 release-channel = "beta"
