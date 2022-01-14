@@ -66,11 +66,6 @@ hash = "d316cfdeb635cfbea6b2c50b1d7a13331b894aa7cab5b3febfb26c6cef21b661"
 metafile = true
 
 [[files]]
-file = "mods/indium.toml"
-hash = "faf9f9e20ef646bf3dbc7d1deb05d3659dd31d563ddaf2a4689e05b6ad62bff1"
-metafile = true
-
-[[files]]
 file = "mods/irisshaders.toml"
 hash = "1b489a9f87d5dc9875e22c23be55a495165b306a37df0c99b44b4dd18380675e"
 metafile = true
