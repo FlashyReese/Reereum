@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.toml"
-hash = "9d5ee35e091181052238c27117bfb46b72843c14d818092fb40298defd6df696"
+hash = "1b489a9f87d5dc9875e22c23be55a495165b306a37df0c99b44b4dd18380675e"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "59a0fef981f9bfe794f49cdb1894d14c116b57b26afed4eaa0db689546023636"
+hash = "58e3a276d4806e4dffd49af639c9eade1eb78bec5873941037bbc99185f0487e"
 metafile = true
 
 [[files]]
@@ -147,12 +147,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "4c16baeac56d7c43fa5d5432b143ce8a440ce049d9f821306760efc6f1f00366"
+hash = "2fe830cec07e16948e21ffaf1630112e5150dfe7871b9efd785781ebc4a83a13"
 metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "4ca8157debeaeb28816ec22d18ac791cb0acf93d7496f91ce5c9028699583ee7"
+hash = "94a3b906029ea8880814d0129f34ed503823f31ab5c186da261bf8aad49bd432"
 metafile = true
 
 [[files]]
