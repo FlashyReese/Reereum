@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "d188949b67caebf77fe822e2e7eab4552227194ada59673707cef564882a0204"
+hash = "42371b3236cccd35dd7d8e8ca34375b39a37bbf14274fc7c8008092afb0f1bcb"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.toml"
-hash = "88a13ad81aede5f46a05cd3a48e0faf336f47248cbe0539cc6dd967740329b96"
+hash = "2b0756538b98e29702e74d8f194b70eb8c472fa086e5a3084d903347cef4d623"
 metafile = true
 
 [[files]]
@@ -133,11 +133,6 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "58e3a276d4806e4dffd49af639c9eade1eb78bec5873941037bbc99185f0487e"
-metafile = true
-
-[[files]]
-file = "mods/servertick.toml"
-hash = "94dc6aa1d0b336b8e550f6a5745c284b285917bc5956b3782ecdfefdfdb9100e"
 metafile = true
 
 [[files]]
