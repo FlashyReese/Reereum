@@ -26,11 +26,6 @@ hash = "a1f420de153548fe1fb5e501bb32a8c820c753e22464755a370611f5081def30"
 metafile = true
 
 [[files]]
-file = "mods/colormatic.toml"
-hash = "ea7807ffa183346c6bdda98893ae82ea75f17171fb183255bf916ace26397817"
-metafile = true
-
-[[files]]
 file = "mods/continuity.toml"
 hash = "c4f74f9f218d880ab0263b6696cbd1a2a2726567211660e9545e4159043c777f"
 metafile = true
@@ -63,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.toml"
 hash = "d316cfdeb635cfbea6b2c50b1d7a13331b894aa7cab5b3febfb26c6cef21b661"
+metafile = true
+
+[[files]]
+file = "mods/indium.toml"
+hash = "cef05705a376d2810aead41099c48f4be37cf8e13801f3323e2811e63b139268"
 metafile = true
 
 [[files]]
@@ -133,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "49920604d6dbaf64e82c9ee46bd3820427676ad92bc494b5b140eacd2367eefb"
+metafile = true
+
+[[files]]
+file = "mods/servertick.toml"
+hash = "99414fdb10437908594978f08f67c9c07398ba2f6934fbd03c81dea993d4b75f"
 metafile = true
 
 [[files]]
