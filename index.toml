@@ -16,6 +16,11 @@ hash = "810b20c4e8d5637b793c925cf0eb36f14fcd13d2eed5564ef26c1c22d420fb02"
 metafile = true
 
 [[files]]
+file = "mods/borderless-mining.toml"
+hash = "f34f337f0aea9abcb7cbc5b241c6f8231a3b1ee93cfc0d06a05f11829fe2f316"
+metafile = true
+
+[[files]]
 file = "mods/carpet.toml"
 hash = "981a59d7eb5f5a5be56c9e0b46cf2314f87be5319d25896e7db938772a056c9b"
 metafile = true
@@ -108,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.toml"
 hash = "0b14d7e99785b9f7f6cec816f381ecbed63e3320898133832c28061f3f5f647b"
+metafile = true
+
+[[files]]
+file = "mods/more-chat-history.toml"
+hash = "e1d8ca23cda8a8e4efb3027916a7574d55adb3d62a01b5a8e9e4e2f5a47b5838"
 metafile = true
 
 [[files]]
