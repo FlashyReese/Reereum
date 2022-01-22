@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet.toml"
-hash = "981a59d7eb5f5a5be56c9e0b46cf2314f87be5319d25896e7db938772a056c9b"
+hash = "d0a2afd57d7d00a48133e7a75fa9a1003664f4b474b349523a7f1417e1ad840e"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "42371b3236cccd35dd7d8e8ca34375b39a37bbf14274fc7c8008092afb0f1bcb"
+hash = "fddae77c9ef535807b9e347d8ad3d74f13ad6e3350b6d5499366d140dd0832f3"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "4851b6f84fba2fe4c9d440f2a62c58a68a0e208a09f6d351a2287bdfce7fc63f"
+hash = "c91f2b9eeeeff378f8358d5418ce44c9322ae4b611b79073f2ba03e00347fc2d"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "fe9d6323b9ef46f8b779c2c329cbdceb70aa52915b8f0fac9b7dd2914bd03193"
+hash = "99d9adf84c3cfc26945429ef9c95ec064b31eae630557e2eb88b119b6a0ea1bf"
 metafile = true
 
 [[files]]
@@ -162,5 +162,5 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.toml"
-hash = "750b6b3dd19e8bc922b6a4e44fc7f271e435f7bc7202c821db2faf260a699703"
+hash = "be338565a2726a6563c61eec271cb548613b52cb0183528f830c4f013ce1f13c"
 metafile = true
