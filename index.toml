@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "c91f2b9eeeeff378f8358d5418ce44c9322ae4b611b79073f2ba03e00347fc2d"
+hash = "b77a542ea8ffc354e1e23cf8fb1c55afe4d6ee502467a18d3a2d1e2d37dc8e83"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "99d9adf84c3cfc26945429ef9c95ec064b31eae630557e2eb88b119b6a0ea1bf"
+hash = "34edba415973683a7ba3a6cc206f3bfb53c28a18f43944e1ea0ee17912f3f67f"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "fa59519fd3ea56a7eba3a5685a41cb4378aed1799be4c16b214bbb916a747f85"
+hash = "9a555061657aaa9474771bcb347e54b1c2efa3ecb8c44e7087f10531cd4575e6"
 metafile = true
 
 [[files]]
@@ -167,5 +167,5 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.toml"
-hash = "be338565a2726a6563c61eec271cb548613b52cb0183528f830c4f013ce1f13c"
+hash = "76a283c84fde56dc66aea3895a0fe89bf8d45f9032663755253f38b8436b3547"
 metafile = true
