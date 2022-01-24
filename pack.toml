@@ -1,11 +1,12 @@
 name = "Reereum"
 author = "FlashyReese"
 version = "1.0.0"
+pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "59ed100757b6dadf2b8eb0afc64f6d92f63b9b870ba9f64a2705044109fc54b8"
+hash = "7f12b9cbaafd3f58a1aba23842d0ac43fdbcde6c034c5925aa6c84ce50114f2f"
 
 [versions]
 fabric = "0.12.12"

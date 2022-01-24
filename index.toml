@@ -76,6 +76,11 @@ hash = "eebcdede557d4146a6be1eeabb3d1f8ee22ba62a775126066ca60d5927974d83"
 metafile = true
 
 [[files]]
+file = "mods/irisshaders.toml"
+hash = "8ba4a0a3bcac8fb33e22e31d670afdd383bcefacf4b1af8cb2435cdb1a930f7c"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.toml"
 hash = "de6b3d12e0b6f5772ff5973a217e1e346fffe5eaa2d37ff2b64cb5a441956d2a"
 metafile = true
@@ -137,12 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "49b1383fbf99576aca5fc88a545c6e36837983c162752c642ccdf99a8a541bf2"
+hash = "e58048a8bb2891ca36bd88d472672b71860831f1f24b20e2ee29f2ec36c51ad6"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "ccfade70d71e334c662fa969f97f43a13ddf3fef1170fea7d638128491943591"
+hash = "63f156ac2a2dc846e49bc51ee8772423191144cffbf0202c0e9c37ac8e379dfd"
 metafile = true
 
 [[files]]
