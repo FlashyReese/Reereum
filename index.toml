@@ -169,3 +169,13 @@ metafile = true
 file = "mods/tweakeroo.toml"
 hash = "76a283c84fde56dc66aea3895a0fe89bf8d45f9032663755253f38b8436b3547"
 metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.toml"
+hash = "faecb40337d9a31a8ae18bdb4875d96f09a07c3b8d050d6b2a8e1353ca613a3c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "619d24abd4bd987bec0f8521ccb381f1aa4bf28f23ce4ab11c61860f12fa972b"
+metafile = true
