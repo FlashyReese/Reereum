@@ -116,11 +116,6 @@ hash = "34edba415973683a7ba3a6cc206f3bfb53c28a18f43944e1ea0ee17912f3f67f"
 metafile = true
 
 [[files]]
-file = "mods/minihud.toml"
-hash = "a202cb0518d2865b08b7f06141c41fc16a4214d9600b2254a5d5cac3856a6247"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.toml"
 hash = "0b14d7e99785b9f7f6cec816f381ecbed63e3320898133832c28061f3f5f647b"
 metafile = true
