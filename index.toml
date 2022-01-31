@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "7bdc9b8f48b74c15aea3bb2f873a403a3e41335ab3ca74498bfc9749423def2d"
+hash = "5b41ac74cba547a8f191435e8c2ca3c51cba58438d2db623ccd4f5a715e8f7dc"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "fddae77c9ef535807b9e347d8ad3d74f13ad6e3350b6d5499366d140dd0832f3"
+hash = "f582ab93d5ca761f657f1d1528a0c10f52b2ed79e42f577a2350299ad8a291bd"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "34edba415973683a7ba3a6cc206f3bfb53c28a18f43944e1ea0ee17912f3f67f"
+hash = "6b620a11823f287c087ba2e8243005504954fed36b28907020c4f64a7190add8"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "49920604d6dbaf64e82c9ee46bd3820427676ad92bc494b5b140eacd2367eefb"
+hash = "f8cb5f0d76d2e69180e54a5182afb6d6ea9e325c552a9aac8571aecb3aca3fa7"
 metafile = true
 
 [[files]]
@@ -167,15 +167,15 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.toml"
-hash = "76a283c84fde56dc66aea3895a0fe89bf8d45f9032663755253f38b8436b3547"
+hash = "fc160218b11ff2f3a9f1f5d29ecbf0d0ae2a71775b67df6977632cdb43f655ef"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "faecb40337d9a31a8ae18bdb4875d96f09a07c3b8d050d6b2a8e1353ca613a3c"
+hash = "c086164287f9a633ae0e8152967e954327db0afdb4dcf4bb7ea166fa390c21bd"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "619d24abd4bd987bec0f8521ccb381f1aa4bf28f23ce4ab11c61860f12fa972b"
+hash = "96c8320ebe996a9ea817165c47049d4c2efe31006b715a17342323c95e51eaec"
 metafile = true
