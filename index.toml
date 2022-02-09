@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "5b41ac74cba547a8f191435e8c2ca3c51cba58438d2db623ccd4f5a715e8f7dc"
+hash = "cf8ba4de98ee4797c5b5097b846abb04dea2b9ef4d83cdef4a66912594ed927a"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "a1f420de153548fe1fb5e501bb32a8c820c753e22464755a370611f5081def30"
+hash = "098e16005d12c718b95bcecfa3be1164c87ec2c772c96ac4bc79b32bba87f888"
 metafile = true
 
 [[files]]
@@ -52,12 +52,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "f582ab93d5ca761f657f1d1528a0c10f52b2ed79e42f577a2350299ad8a291bd"
+hash = "d6dc8d5291fb8952048f7eb52951eec5fbabdac5554d93b55cd6e0ea4b9aeafa"
 metafile = true
 
 [[files]]
 file = "mods/fabrishot.toml"
-hash = "f95f5c08d51efe7e073a6af55a928c028b9a3755f7ffe0bdce270dcbba13c432"
+hash = "5411f6922d9e0c17d4ef0dc50f1d518895c5d4f8bdbea6a8c9a4388a758632fe"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.toml"
-hash = "d316cfdeb635cfbea6b2c50b1d7a13331b894aa7cab5b3febfb26c6cef21b661"
+hash = "ec77c96f2eeabd8ff5c90a97af9111a4c063a7426cfb64c45281723f04dd6aec"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "f8cb5f0d76d2e69180e54a5182afb6d6ea9e325c552a9aac8571aecb3aca3fa7"
+hash = "b006e245b084f5b88cccd2a77722fa5caa1388df2f5ffc774f706dd57c15555c"
 metafile = true
 
 [[files]]
