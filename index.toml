@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "b77a542ea8ffc354e1e23cf8fb1c55afe4d6ee502467a18d3a2d1e2d37dc8e83"
+hash = "04b74b7af4fbb270f2280f61c85b0f8093bbdbbe075adb48ab7380bf4fd4405a"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.toml"
-hash = "fc160218b11ff2f3a9f1f5d29ecbf0d0ae2a71775b67df6977632cdb43f655ef"
+hash = "5d29bd322ca0c52c79c70ebb800b13cae8214da724389f08d3a8c5a19d758ca1"
 metafile = true
 
 [[files]]
