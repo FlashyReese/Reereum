@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "6b620a11823f287c087ba2e8243005504954fed36b28907020c4f64a7190add8"
+hash = "d7899058f0874dd7c4835fefa9a3737f7ebbfdf874288593eaab6a66724df0de"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "b006e245b084f5b88cccd2a77722fa5caa1388df2f5ffc774f706dd57c15555c"
+hash = "0a7e874f46a950d002c1adef34f2dd7385567b2490668df0311b859682e1bf4e"
 metafile = true
 
 [[files]]
@@ -177,10 +177,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "c086164287f9a633ae0e8152967e954327db0afdb4dcf4bb7ea166fa390c21bd"
+hash = "0043f049cfd71e8292be218f7adeed1adf2d4bd8af8b3187d71dbd406256bf8b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "96c8320ebe996a9ea817165c47049d4c2efe31006b715a17342323c95e51eaec"
+hash = "201c61da574c7e7443b44875cdabd456735a9d21119755cda12cd6d894ed9d34"
 metafile = true
