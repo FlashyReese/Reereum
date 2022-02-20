@@ -36,6 +36,11 @@ hash = "c4f74f9f218d880ab0263b6696cbd1a2a2726567211660e9545e4159043c777f"
 metafile = true
 
 [[files]]
+file = "mods/controlling.toml"
+hash = "1db4e0729ed816228ed3cac73f186ee93ab298c968823e312a977208e4d97ba8"
+metafile = true
+
+[[files]]
 file = "mods/dark-loading-screen.toml"
 hash = "dde71f88d311d419ad9bde82132351bba283c26bd04f6c4b567642880edf8367"
 metafile = true
@@ -158,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/servertick.toml"
 hash = "99414fdb10437908594978f08f67c9c07398ba2f6934fbd03c81dea993d4b75f"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.toml"
+hash = "ec04cd647d3b8162a7a63b9ff89ac89accacba3328fea481ab7f0ae42b98d0c9"
 metafile = true
 
 [[files]]
