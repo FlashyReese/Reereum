@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "d33bab7a86be2a0557c7ddfe73ba4b2c20e408f4128325852ef39bdac0c4642c"
+hash = "e3e8649943ec98ec3ceb31e18a1d9336bf8f2febb2023b7e0be11eafc389423c"
 metafile = true
 
 [[files]]
