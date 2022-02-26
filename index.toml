@@ -51,8 +51,8 @@ hash = "ea8cf3e8f4e91a92bb524b8eb399c9ae6b91704c1250a5a347a7a2891e8c067e"
 metafile = true
 
 [[files]]
-file = "mods/ebe.toml"
-hash = "c58834af10ab46edeb4946b55f4d71cf9bced4d37aef0ee122a5a7e4e9e17153"
+file = "mods/enhanced-block-entities.toml"
+hash = "08280b7b95f068d0311df8ce7a79d9f33a123369448ad4bccc6f0b98ff799807"
 metafile = true
 
 [[files]]
@@ -73,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.toml"
 hash = "8fa96db3393862b42d7cad86af361e6bd23a321d577cc1894dac44009ac62824"
+metafile = true
+
+[[files]]
+file = "mods/in-game-account-switcher.toml"
+hash = "7db83d52fd1b923f52fe2fc3f220db47d9ea67e00f71cbef5d80ce13a0ec6502"
 metafile = true
 
 [[files]]
