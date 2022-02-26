@@ -191,6 +191,11 @@ hash = "5d29bd322ca0c52c79c70ebb800b13cae8214da724389f08d3a8c5a19d758ca1"
 metafile = true
 
 [[files]]
+file = "mods/wthit.toml"
+hash = "14d62fd2ec4c040a03e2912751389307ba4c7e3af9852bcd44a1898aa54ae411"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.toml"
 hash = "0043f049cfd71e8292be218f7adeed1adf2d4bd8af8b3187d71dbd406256bf8b"
 metafile = true
