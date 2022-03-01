@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "405422e979d9904e49f44d2ba163a869da092bf10187399ea92063bf3c61ff34"
+hash = "71c842d27ea4b8ceaafd80012efd3f225859dfb4630ff87a9cc14e3b2717cd96"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "81e4a7197c913602a8f24d35928c622fed1d0c3d19137913aeb70de66b012e16"
+hash = "f6d175a42f927fdeb9eb7f67bc5aa503f1b13da2f102c0f502362a9b4e5acb1c"
 metafile = true
 
 [[files]]
