@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "0a08fd6ef2b5d07a11e308406bed1c215fdd4d3d5dbec5bb0f031c62a3dbfe94"
+hash = "764101c5462597727dae16d1946dc0f3a44394a0c022c60641ace66d7f2b4cfa"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "c8b792cdc006780b256e1a1a05fca91cc32542547d9805ece9b48eff78e5b2d6"
+hash = "4d93ee92a854d9dd06bfaef9c4c9b498b8dee2dead2c22bcd52caab3616f9294"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.toml"
-hash = "085fe63a5eb184f27fa75481047de205138e2b23951ea319ce17b2edfb7a5fd4"
+hash = "8b7ae1195b19f9f3ae32c779874d8655268bba27c869331c483a8879ddc3f646"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "284c570f6dacd3237d0d21ba4753267cf6e0087e5988f45cf9fc65e5de64f342"
+hash = "a9162e11f15e32ac275d8d564cf92e8791dff6198cd5204f258ae4e1da31c4a4"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "75e82d1342fc64d64d70bc53291e49a8398a540e02994f2102fd5810107e107e"
+hash = "9f2ff532cf13549338bc5b0589cf946dd8cb5dca338b692e0e9b8f51a616c160"
 metafile = true
 
 [[files]]
