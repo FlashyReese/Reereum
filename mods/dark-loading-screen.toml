@@ -4,11 +4,10 @@ side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3470/993/dark-loading-screen-1.6.11.jar"
-hash-format = "murmur2"
-hash = "1112947789"
+hash-format = "sha1"
+hash = "4f93411b34bc03e6b6af00f70a6f45190aad9ba7"
 
 [update]
 [update.curseforge]
 file-id = 3470993
 project-id = 365727
-release-channel = "beta"

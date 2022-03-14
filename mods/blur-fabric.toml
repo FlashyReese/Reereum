@@ -4,11 +4,10 @@ side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3548/709/blur-2.4.1.jar"
-hash-format = "murmur2"
-hash = "3253100404"
+hash-format = "sha1"
+hash = "4e9eb6718bf1aae922f7abd6fc93be1db49e5a4c"
 
 [update]
 [update.curseforge]
 file-id = 3548709
 project-id = 393563
-release-channel = "beta"

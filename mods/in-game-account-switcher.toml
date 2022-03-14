@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3545/107/InGameAccountSwitcher-Fabric-1.18-7.1.3.jar"
-hash-format = "murmur2"
-hash = "568024070"
+hash-format = "sha1"
+hash = "2e2a348a6f787a52d7dfa587f13e8392690ec77c"
 
 [update]
 [update.curseforge]

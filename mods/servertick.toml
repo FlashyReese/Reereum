@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3542/454/servertick-mc1.18-1.6.jar"
-hash-format = "murmur2"
-hash = "1098068381"
+hash-format = "sha1"
+hash = "13f2ef00ba465ceaa0c7046e4a9fcb7b28311854"
 
 [update]
 [update.curseforge]
