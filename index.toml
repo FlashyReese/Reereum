@@ -171,6 +171,11 @@ hash = "0f214f9a926a741db9627a021809cee9d0deaa8b29a99eadc651a200b2dd669b"
 metafile = true
 
 [[files]]
+file = "mods/smart-offline-mode.toml"
+hash = "fabc3cbbe02df4edd1c15e99ea9c7bce4a296b6d1a7b451ce67a19c10d2c6617"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.toml"
 hash = "a0d8ad1d13e07e1270248cb51712268b9ef27e6ab5e8ab16634cca9fa5e12ef0"
 metafile = true

@@ -1,0 +1,8 @@
+name = "Smart Offline Mode"
+filename = "smart-offline-mode-mc1.18.2-1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/FlashyReese/SmartOfflineMode/releases/download/mc1.18.2-1.0/smart-offline-mode-mc1.18.2-1.0.jar"
+hash-format = "sha1"
+hash = "61b0e1053235b714f9e15c82463140555c6613d1"
