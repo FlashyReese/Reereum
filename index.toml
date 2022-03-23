@@ -2,7 +2,6 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "4678da7646beb73621074e73d73d5b0c20d8ae370c18a18cdef8b20f43e29cf4"
 metafile = true
 
 [[files]]
@@ -167,7 +166,6 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
-hash = "0f214f9a926a741db9627a021809cee9d0deaa8b29a99eadc651a200b2dd669b"
 metafile = true
 
 [[files]]
@@ -192,7 +190,6 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "10aa2195ebfc9b76c6531db9132c37cac0e5720bbcb0c749ed50493b08291137"
 metafile = true
 
 [[files]]
