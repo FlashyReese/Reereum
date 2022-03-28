@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "ac970d526fa1a86e6144bed5267a8bb7c6f422d63fd75fbd886e7b907ad86762"
+hash = "d51ef44b3ca26a54e55179de00ae4bd87e57b7404e8e9c6e683e122dd42b6959"
 metafile = true
 
 [[files]]
@@ -197,10 +197,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "517454a819176a1b52569e4c070d48e3a39d07e2e5b6bef26caa7bbc7e179037"
+hash = "e29b348d85c634266cec2768665122a8357b770586cdf146713a5e80610d973c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "faf6e255d73006ba855222959205280dfa139e76bbfc98059ee338b604f16c08"
+hash = "8f10cb65455a6ccd28e37027b951465d2db5c7ea10a2326ff8fc57e69ef708bf"
 metafile = true
