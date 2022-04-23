@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "2ed0458c1f09c92c401f0f36eeddb8fd893f7e66b461daa1d59ea436fb8d2316"
+hash = "9458f2379e1a68cb81337b694da4ff1d76344cc5c87a49fbc6880cef61c76187"
 metafile = true
 
 [[files]]
@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/borderless-mining.toml"
-hash = "cfc25775ef2e2dec224cd7328b7174e271c28fc610841355d97f2fc6e3723a31"
+hash = "29617ba69cf27f8892a63fa113386a0d86a43600a0b6c5f382e1c4212a9faafc"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.toml"
-hash = "8cdcf889900d23a3a8b813a70c040fb0a6a17477c6d3b04f748eadd942f676db"
+hash = "856583ed59b9853f04a69db0e4c376cad017e83240962a2e8d0d58dfe20df78d"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "e1d62926446ab5519d262d741f9f2f125488bc2048f38aced8d3e1ebec55fe1e"
+hash = "99fb566fe03abc87d64b6b541cbe225fa856d15c1ef7a6d4de85e6b6fb0c14e8"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "e225ab80917fa453c5a02348f864075931a6c16fbb97b2c67393c5649ad7ea4d"
+hash = "00bb38ca1c64207e589978ad2437657a541fd2a0852ac52887987ef04581d2fd"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "86f5fc0b25c2d71a6ac6f07dcf0fd168a51b7d3604636d5cd75485835d465c3b"
+hash = "2c70ac84c0b9feb5c5d42543be5612770da38debac874f48cebb5e0433afba89"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.toml"
-hash = "f05c443fcccebf9623060065e2319a22f983234dc0d1a7ac1cd6883cd61e93fb"
+hash = "570bbd8f182e350e0b75bd94b10bf1aa3d505dc513e2708a8930832ec5b6b06f"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "8aa67b7d71db2e344dcae8427aa8742459e893705774e1941bed7fff04a8d892"
+hash = "3e723eefde3af8c48ea424018106868bcadbccd9546666a3b2c57823886b0072"
 metafile = true
 
 [[files]]
@@ -192,15 +192,15 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "e8b8f9bb79d5426271475d29de8796b394c08ee5dc1d5a3adba0ebc5c662eb83"
+hash = "8d89480bbcbd851737cd1591f557a64d053ce4198cb5f66900a4cf4e0c40adc8"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "e29b348d85c634266cec2768665122a8357b770586cdf146713a5e80610d973c"
+hash = "2c3e45c4e9ea9b350a7e0454f3355166696f43dcd96f8f4b3dadb839e5092c33"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "22fd3b5bb49bbfb913c9190ebf2e9c595384a4e99e0e1e020a0b90295032e87b"
+hash = "b9adf44af9509f804debc59a7cf43e8b1a8eccb565a928be3f2e855b5acd8a94"
 metafile = true
