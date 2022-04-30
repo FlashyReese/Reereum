@@ -6,6 +6,11 @@ hash = "9458f2379e1a68cb81337b694da4ff1d76344cc5c87a49fbc6880cef61c76187"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.toml"
+hash = "d25563e0e48b6b263dbf6ad7b0718db52dc81d9bfdd6f72aa4574f9ae5cbc394"
+metafile = true
+
+[[files]]
 file = "mods/better-biome-blend.toml"
 hash = "5f0b8cf12951b1f9e6b6d78b1ed0cc9c777eadafa21fadaaf433dcc3c80ae443"
 metafile = true
