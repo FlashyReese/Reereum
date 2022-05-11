@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "9458f2379e1a68cb81337b694da4ff1d76344cc5c87a49fbc6880cef61c76187"
+hash = "fd6f7453e6b6a66b26d32fc6da52d2545e7aadb1b7ccdacb7674ac3d4066a28a"
 metafile = true
 
 [[files]]
 file = "mods/badpackets.toml"
-hash = "d25563e0e48b6b263dbf6ad7b0718db52dc81d9bfdd6f72aa4574f9ae5cbc394"
+hash = "4985898441d775d014ec0a1cfc69e9a1f92b01de5204f3c299951261bd182ea9"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "00bb38ca1c64207e589978ad2437657a541fd2a0852ac52887987ef04581d2fd"
+hash = "dc019373d38d83c70e4c80595782be7c328938e7b2d16cbc26fc23692fe0b3ef"
 metafile = true
 
 [[files]]
@@ -192,20 +192,20 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.toml"
-hash = "8e8c93886297ff09bbe8f215cdf8fd072ad09427df0f882e2ee0235ddf1a2ec1"
+hash = "c2a202e76ba939aa3ece663e5dbe42e6ea7fc9d3f4be51bab49712b68960f4ce"
 metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "d73e60f34b8ae99c48e3daf99d3ceab49df778bb631ea88173dd6a7d001ebad2"
+hash = "f5276d848c4ad487529368d1e11c92252bb4745c9e74446d98896504337e0ac5"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "2c3e45c4e9ea9b350a7e0454f3355166696f43dcd96f8f4b3dadb839e5092c33"
+hash = "ebf5fdabc760b83bd8cc952dd798a9feceacb82004357b3d5e8f908b79634c01"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "b9adf44af9509f804debc59a7cf43e8b1a8eccb565a928be3f2e855b5acd8a94"
+hash = "b2397940f23e24b49a1d08dbfe4aae584f66bededf5e591f35c097e3dbea6d2d"
 metafile = true

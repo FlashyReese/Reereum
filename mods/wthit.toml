@@ -1,13 +1,13 @@
 name = "WTHIT"
-filename = "wthit-fabric-4.9.1.jar"
+filename = "wthit-fabric-4.10.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3771/780/wthit-fabric-4.9.1.jar"
+url = "https://edge.forgecdn.net/files/3780/925/wthit-fabric-4.10.1.jar"
 hash-format = "sha1"
-hash = "c0304d46a9d3afbe4432f77b028ab9f0469f9c2b"
+hash = "73e1fc50286a55c05cee837a8b93ef28a05fd04f"
 
 [update]
 [update.curseforge]
-file-id = 3771780
+file-id = 3780925
 project-id = 440979
