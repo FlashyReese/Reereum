@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "99fb566fe03abc87d64b6b541cbe225fa856d15c1ef7a6d4de85e6b6fb0c14e8"
+hash = "3e5b48743defd597ab53d6459c5c9991aa12e6fd89ae1a62a5a0f9c24cfb9dd2"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "954032fd7697535870f901eb03abc1439e228de7bc598c7bde3073ad7f5bfeb5"
+hash = "c5fef2f9b5aec665ad9c09712c0c9d88157ba2cf48ac19fd0eef30b00c97dd5b"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "439297a26554e1723ca14ff0142e18a12180700578c270e23501e4b1083dc2f4"
+hash = "696d16639ad01496fc4f99045b025492954099367538d46dbaf98dd9a0f7c4d9"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "fb3132af2dd8a755ad4d23d93b99166751f4c81ea1f9a74f194119d148f73844"
+hash = "e0f3295cc26be647264fd0f8e188a194b53d89f3bd9823a45b6e8336b5e4211f"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
-hash = "2a0ae8867645fe078bc7e6f67ca7eb83d5c650a925c9252740f6121fd29113ec"
+hash = "8de78e1eb073b1aea2af6953362804718b68c2e3b8934f3200762092a0dcda8b"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "ce30f904d04f28ccc48d443fbf07034c46a7491dce470c81fe343733073baff7"
+hash = "6d5993588596715f6f484cbbf81fcdf07eadb1c3ceed698520c62a6b7fd736d8"
 metafile = true
 
 [[files]]
@@ -197,15 +197,15 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "f5276d848c4ad487529368d1e11c92252bb4745c9e74446d98896504337e0ac5"
+hash = "4b57d318cc62aff14ecc1da6f0c476b9627ee0b30ff148c9e0bf91f78549807b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "ebf5fdabc760b83bd8cc952dd798a9feceacb82004357b3d5e8f908b79634c01"
+hash = "81dd7391f2b1eb47ffd1a3c589adc658086c39a8906b4f501470a2e2c87c0ec0"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "b2397940f23e24b49a1d08dbfe4aae584f66bededf5e591f35c097e3dbea6d2d"
+hash = "e1df8de87a9b1405fe15374a9675559eef7959d23e2482f871a8833c8eccb3da"
 metafile = true
