@@ -31,6 +31,11 @@ hash = "4f1ff263ced03be352e3336345ff76aa9aeec76afc7b13f4603dd229d779b3d1"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
 metafile = true
@@ -77,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/in-game-account-switcher.toml"
-hash = "e1b1ddd65e878b3283fe515447fa5329bb53df1f69f4de244dc4a5c83120f03a"
+hash = "c0caf77b4eacd17810c6776416f8036b46496801ef8e1d7b01fcd542856d7b8e"
 metafile = true
 
 [[files]]
@@ -141,11 +146,6 @@ hash = "6e491af660315658150add9c80d9ba6936563e6f55c45ee0aad5bdb0737e6fa8"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer.toml"
-hash = "570bbd8f182e350e0b75bd94b10bf1aa3d505dc513e2708a8930832ec5b6b06f"
-metafile = true
-
-[[files]]
 file = "mods/phosphor.toml"
 hash = "1fbb24b0b382c6d21bd2fed103e564bfe5f3e5ee10e6686faafd0164f07bf8da"
 metafile = true
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "85e2bfbfed071f711e2f489a0ba203fc41dc7132d4cf6070595e611960aacadc"
+hash = "bd86bfc2dc17789f239be8547a155b3e6f2429df1cffa23b2bcc1952b3cd24a8"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
-hash = "8de78e1eb073b1aea2af6953362804718b68c2e3b8934f3200762092a0dcda8b"
+hash = "010e81882aab141266a2255d475cf5e1dca19143a7ec9daa709ba49c889e5e72"
 metafile = true
 
 [[files]]
@@ -208,4 +208,9 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.toml"
 hash = "b39ea4b76fe845d90c1dc4d2b5a9dace1a0d8a0b952f1c8a28e5b6c4997e135f"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "49e25ec166b7824d8f1d7feccbd08a8e904c90b089f6485b05df9173a489bd54"
 metafile = true
